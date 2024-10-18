@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @PeterNicos
-- 👀 I’m interested in learning to code, computer graphics, open source, blender, python.
-- 🌱 I’m currently learning java, python, js, html, css, to live properly.
+- 👋 Hi, I’m @PeterNicos or just Nico.
+- 👀 I’m interested in learning to code, computer graphics, open source, blender and graphics in general.
+- 🌱 Always curious to learn!
 - 💞️ I’m looking to collaborate on open source projects in computer graphics.
 - 📫 How to reach me... mail@nico-peters.com
-
-<!---
-PeterNicos/PeterNicos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
